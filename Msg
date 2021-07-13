@@ -1,1 +1,8 @@
-Hi users XD
+{
+"SendMessage":"1",
+
+"MyMessage":"https://t.me/slehibothttps://t.me/sl_ehi"
+
+
+
+}
