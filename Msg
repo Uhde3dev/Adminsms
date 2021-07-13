@@ -1,7 +1,7 @@
 {
-"SendMessage":"1",
+"SendMessage":"2",
 
-"MyMessage":"https://t.me/slehibothttps://t.me/sl_ehi"
+"MyMessage":"is that workin wtf"
 
 
 
